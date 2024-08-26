@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.dataaccess\\repositories\\messagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\repositories\\messagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.dataaccess\\migrations\\20240826125206_mgrationinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\20240826125206_mgrationinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.dataaccess\\configurations\\messageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\configurations\\messageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.dataaccess\\entities\\messagesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\entities\\messagesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B00A38-DFD4-4F14-9450-2F7E832A5E89}|WebApp.Core\\WebApp.Core.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.core\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B00A38-DFD4-4F14-9450-2F7E832A5E89}|WebApp.Core\\WebApp.Core.csproj|solutionrelative:webapp.core\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.dataaccess\\migrations\\webapplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\migrations\\webapplicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.dataaccess\\webapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1365F63C-045B-4B3F-809B-69F04A279437}|WebApp.DataAccess\\WebApp.DataAccess.csproj|solutionrelative:webapp.dataaccess\\webapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|c:\\users\\rer99\\source\\repos\\webapplication2\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|c:\\users\\rer99\\source\\repos\\webapplication2\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|c:\\users\\rer99\\source\\repos\\webapplication2\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|c:\\users\\rer99\\source\\repos\\webapplication2\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E48478EC-C2E1-45C6-B0D4-4074E7992411}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96258F2-19FF-43E7-B1D9-82EB0B8F9342}|WebApp.Application\\WebApp.Application.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.application\\services\\messagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96258F2-19FF-43E7-B1D9-82EB0B8F9342}|WebApp.Application\\WebApp.Application.csproj|solutionrelative:webapp.application\\services\\messagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\hubs\\messagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\contracts\\messageinputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\contracts\\messageinputrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapplication2\\webapplication2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{31EB3EAC-764B-477F-9BE4-0F43ACF0EE94}|WebApplication2\\WebApp.csproj|solutionrelative:webapplication2\\webapplication2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B00A38-DFD4-4F14-9450-2F7E832A5E89}|WebApp.Core\\WebApp.Core.csproj|c:\\users\\rer99\\source\\repos\\webapplication2\\webapp.core\\abstractions\\imessagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B00A38-DFD4-4F14-9450-2F7E832A5E89}|WebApp.Core\\WebApp.Core.csproj|solutionrelative:webapp.core\\abstractions\\imessagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Migrations\\WebApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\WebApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Migrations\\WebApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\WebApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:12:42.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240826125206_mgrationinit.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Migrations\\20240826125206_mgrationinit.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Migrations\\20240826125206_mgrationinit.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Migrations\\20240826125206_mgrationinit.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Migrations\\20240826125206_mgrationinit.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:12:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-26T12:03:58.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-26T09:51:24.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplication2\\Dockerfile",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Dockerfile",
+              "RelativeToolTip": "WebApplication2\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-26T09:50:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T09:49:04.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-26T09:45:22.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "D:\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "D:\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAAI4BAAAAAAAAAAASwKgBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-26T09:09:01.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Configurations\\MessageConfiguration.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Configurations\\MessageConfiguration.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Configurations\\MessageConfiguration.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Configurations\\MessageConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:25:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageInputRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Contracts\\MessageInputRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Contracts\\MessageInputRequest.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Contracts\\MessageInputRequest.cs",
+              "RelativeToolTip": "WebApplication2\\Contracts\\MessageInputRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T09:04:14.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MessageHub.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Hubs\\MessageHub.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Hubs\\MessageHub.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Hubs\\MessageHub.cs",
+              "RelativeToolTip": "WebApplication2\\Hubs\\MessageHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:39:26.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T05:45:25.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebApplication2.http",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.http",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.http",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.http",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-24T05:41:15.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:38:17.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T05:33:03.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T05:32:59.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MessagesService.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.Application\\Services\\MessagesService.cs",
+              "RelativeDocumentMoniker": "WebApp.Application\\Services\\MessagesService.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.Application\\Services\\MessagesService.cs",
+              "RelativeToolTip": "WebApp.Application\\Services\\MessagesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:19:57.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:59:41.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMessagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.Core\\Abstractions\\IMessagesRepository.cs",
+              "RelativeDocumentMoniker": "WebApp.Core\\Abstractions\\IMessagesRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.Core\\Abstractions\\IMessagesRepository.cs",
+              "RelativeToolTip": "WebApp.Core\\Abstractions\\IMessagesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:47:49.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.Core\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "WebApp.Core\\Models\\Messages.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.Core\\Models\\Messages.cs",
+              "RelativeToolTip": "WebApp.Core\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:45:44.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessagesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Entities\\MessagesEntity.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Entities\\MessagesEntity.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Entities\\MessagesEntity.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Entities\\MessagesEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:45:36.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessagesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Repositories\\MessagesRepository.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\Repositories\\MessagesRepository.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\Repositories\\MessagesRepository.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\Repositories\\MessagesRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwBgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:45:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\WebApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp.DataAccess\\WebApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rer99\\source\\repos\\WebApplication2\\WebApp.DataAccess\\WebApplicationDbContext.cs",
+              "RelativeToolTip": "WebApp.DataAccess\\WebApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:44:13.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

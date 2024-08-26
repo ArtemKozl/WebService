@@ -1,0 +1,63 @@
+name: dockercompose4516491863813674401
+services:
+  db:
+    container_name: postgres
+    environment:
+      POSTGRES_DB: db
+      POSTGRES_PASSWORD: "123"
+      POSTGRES_USER: myuser
+    image: postgres:latest
+    networks:
+      webApp-dev: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: postgres_data
+        target: /var/lib/postgresql/data
+        volume: {}
+  webapp:
+    build:
+      context: C:\Users\rer99\source\repos\WebApplication2
+      dockerfile: WebApplication2/Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: webapp
+    networks:
+      webApp-dev: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\rer99\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\rer99\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  webApp-dev:
+    name: dockercompose4516491863813674401_webApp-dev
+    driver: bridge
+volumes:
+  postgres_data:
+    name: dockercompose4516491863813674401_postgres_data

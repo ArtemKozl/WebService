@@ -1,0 +1,72 @@
+name: dockercompose4516491863813674401
+services:
+  db:
+    environment:
+      POSTGRES_DB: mydb
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_USER: myuser
+    image: postgres:latest
+    networks:
+      default: null
+    volumes:
+      - type: bind
+        source: C:\Users\rer99\source\repos\WebApplication2\create_db_and_tables.sql
+        target: /docker-entrypoint-initdb.d/create_db_and_tables.sql
+        bind:
+          create_host_path: true
+      - type: volume
+        source: postgres_data
+        target: /var/lib/postgresql/data
+        volume: {}
+  webapp:
+    build:
+      context: C:\Users\rer99\source\repos\WebApplication2
+      dockerfile: WebApplication2/Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HOSTING_ENVIRONMENT: Docker
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__DefaultConnection: Host=db;Database=mydb;Username=myuser;Password=mypassword;-
+      SWAGGER_UI_PATH: /swagger
+    image: webapp
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "8081"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\rer99\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\rer99\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose4516491863813674401_default
+volumes:
+  postgres_data:
+    name: dockercompose4516491863813674401_postgres_data
